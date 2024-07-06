@@ -1,3 +1,3 @@
-Authentication automation
-Selenium with java
+Authentication automation, 
+Selenium with java, 
 Allure reporting
