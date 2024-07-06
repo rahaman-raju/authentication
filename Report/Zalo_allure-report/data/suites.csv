@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Oct 16 16:31:05 BDT 2023","Mon Oct 16 16:31:30 BDT 2023","25600","Zalo_Report","Test","testCase.Zalo$ZaloAllPart","testCase.Zalo$ZaloAllPart","ZaloStats","ZaloStats","Check all features"
-"broken","Mon Oct 16 16:31:30 BDT 2023","Mon Oct 16 16:31:32 BDT 2023","2170","Zalo_Report","Test","testCase.Zalo$ZaloAllPart","testCase.Zalo$ZaloAllPart","ZaloUser","ZaloUser","Check user all information one by one "
-"passed","Mon Oct 16 16:30:55 BDT 2023","Mon Oct 16 16:31:04 BDT 2023","9655","Zalo_Report","Test","testCase.Zalo$ZaloAllPart","testCase.Zalo$ZaloAllPart","ZaloBase","ZaloBase","Loging with correct username and password"
-"passed","Mon Oct 16 16:31:33 BDT 2023","Mon Oct 16 16:31:42 BDT 2023","8962","Zalo_Report","Test","testCase.Zalo$ZaloAllPart","testCase.Zalo$ZaloAllPart","ZaloUserDetails","ZaloUserDetails","Check user full information "
