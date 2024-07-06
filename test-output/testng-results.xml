@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-06T20:04:22 BDT" name="Default suite" finished-at="2024-07-06T20:06:01 BDT" duration-ms="98975">
+    <groups>
+    </groups>
+    <test started-at="2024-07-06T20:04:22 BDT" name="Default test" finished-at="2024-07-06T20:06:01 BDT" duration-ms="98975">
+      <class name="authenTication.Login_Logout">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:04:22 BDT" name="setDriver" finished-at="2024-07-06T20:04:57 BDT" duration-ms="34900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="invalidUser_ValidPassword()[pri:1, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:04:57 BDT" name="invalidUser_ValidPassword" finished-at="2024-07-06T20:05:03 BDT" duration-ms="5795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUser_ValidPassword -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:03 BDT" name="afterMethod" finished-at="2024-07-06T20:05:03 BDT" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidUser_ValidPassword status=SUCCESS method=Login_Logout.invalidUser_ValidPassword()[pri:1, instance:authenTication.Login_Logout@5d5160e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod1(org.testng.ITestResult)[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:03 BDT" name="afterMethod1" finished-at="2024-07-06T20:05:03 BDT" duration-ms="332" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidUser_ValidPassword status=SUCCESS method=Login_Logout.invalidUser_ValidPassword()[pri:1, instance:authenTication.Login_Logout@5d5160e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:03 BDT" name="tearDown" finished-at="2024-07-06T20:05:03 BDT" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:03 BDT" name="setDriver" finished-at="2024-07-06T20:05:16 BDT" duration-ms="12848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="invalidPassword_ValidUser()[pri:2, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:16 BDT" name="invalidPassword_ValidUser" finished-at="2024-07-06T20:05:21 BDT" duration-ms="4652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPassword_ValidUser -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:21 BDT" name="afterMethod" finished-at="2024-07-06T20:05:21 BDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidPassword_ValidUser status=SUCCESS method=Login_Logout.invalidPassword_ValidUser()[pri:2, instance:authenTication.Login_Logout@5d5160e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod1(org.testng.ITestResult)[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:21 BDT" name="afterMethod1" finished-at="2024-07-06T20:05:21 BDT" duration-ms="264" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidPassword_ValidUser status=SUCCESS method=Login_Logout.invalidPassword_ValidUser()[pri:2, instance:authenTication.Login_Logout@5d5160e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:21 BDT" name="tearDown" finished-at="2024-07-06T20:05:22 BDT" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:22 BDT" name="setDriver" finished-at="2024-07-06T20:05:35 BDT" duration-ms="13222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="invalidPassword_InvalidUser()[pri:3, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:35 BDT" name="invalidPassword_InvalidUser" finished-at="2024-07-06T20:05:41 BDT" duration-ms="6450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPassword_InvalidUser -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:41 BDT" name="afterMethod" finished-at="2024-07-06T20:05:41 BDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidPassword_InvalidUser status=SUCCESS method=Login_Logout.invalidPassword_InvalidUser()[pri:3, instance:authenTication.Login_Logout@5d5160e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod1(org.testng.ITestResult)[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:41 BDT" name="afterMethod1" finished-at="2024-07-06T20:05:42 BDT" duration-ms="266" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidPassword_InvalidUser status=SUCCESS method=Login_Logout.invalidPassword_InvalidUser()[pri:3, instance:authenTication.Login_Logout@5d5160e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:42 BDT" name="tearDown" finished-at="2024-07-06T20:05:42 BDT" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:42 BDT" name="setDriver" finished-at="2024-07-06T20:05:55 BDT" duration-ms="13072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="validPassword_ValidUser()[pri:4, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:55 BDT" name="validPassword_ValidUser" finished-at="2024-07-06T20:05:59 BDT" duration-ms="4431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validPassword_ValidUser -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:59 BDT" name="afterMethod" finished-at="2024-07-06T20:05:59 BDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validPassword_ValidUser status=SUCCESS method=Login_Logout.validPassword_ValidUser()[pri:4, instance:authenTication.Login_Logout@5d5160e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod1(org.testng.ITestResult)[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:05:59 BDT" name="afterMethod1" finished-at="2024-07-06T20:06:00 BDT" duration-ms="864" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validPassword_ValidUser status=SUCCESS method=Login_Logout.validPassword_ValidUser()[pri:4, instance:authenTication.Login_Logout@5d5160e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:authenTication.Login_Logout@5d5160e6]" started-at="2024-07-06T20:06:00 BDT" name="tearDown" finished-at="2024-07-06T20:06:01 BDT" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- authenTication.Login_Logout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

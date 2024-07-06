@@ -1,0 +1,5 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"EP002: Zalo Statistics","Zalo Statistics","Check all feature","0","0","1","0","0"
+"EP003: Zalo User","User","Check user all information","0","1","0","0","0"
+"EP001: Login for Zalo","Login","Loging with correct username and password","0","0","1","0","0"
+"EP004: Zalo User Details","Full Information","Check user full information","0","0","1","0","0"
